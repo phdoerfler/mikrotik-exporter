@@ -1,4 +1,4 @@
-FROM arm32v7/alpine
+FROM balenalib/rpi-raspbian:latest
 
 EXPOSE 9090
 
